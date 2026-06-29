@@ -46,3 +46,4 @@ Where:
 * Major Poisson's Ratio ($\nu_{LT}$): `0.26`
 
 The script will instantly output a multi-panel visual grid tracking exactly how your ply softens or stiffens as the fibers rotate away from the load direction.
+<img src="Output_Plots/lamina_plots.png" width="600" alt="Transformed Moduli vs Fiber Orientation">
