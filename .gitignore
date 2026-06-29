@@ -1,0 +1,7 @@
+# MATLAB variables and workspace history
+*.mat
+*.fig
+
+# Autosaves and temporary files
+*.asv
+*.slx~
